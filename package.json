@@ -1,9 +1,9 @@
 {
   "name": "projeto-podcast",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "service.js",
   "directories": {
-    "doc": "docs"
+    "docs": "docs"
   },
   "scripts": {
     "start:dev": "tsx --env-file=.env src/server.ts",
