@@ -11,8 +11,11 @@ Podcasts feitos em vídeo
   - Saúde
   - BodyBuilder
   - Mentalidade
-  - Humor
+  - Tecnologia
+  - 
 - Filtrar episódios por nome de podcasts
+  - FlowPodcast
+  - Inteligencia Ltda
 
 ## Tecnologias Utilizadas
 
