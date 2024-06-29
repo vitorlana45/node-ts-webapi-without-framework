@@ -49,4 +49,3 @@ Podcasts feitos em vídeo
      http://localhost:3333/api/episode?p=flow
      http://localhost:3333/api/episode?p=inteligencia Ltda
 
-    
