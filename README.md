@@ -47,6 +47,6 @@ Podcasts feitos em vídeo
      
     ```bash
      http://localhost:3333/api/episode?p=flow
-    http://localhost:3333/api/episode?p=inteligencia Ltda
+     http://localhost:3333/api/episode?p=inteligencia Ltda
 
     
